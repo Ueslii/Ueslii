@@ -11,7 +11,7 @@
 |---|---|---|---|
 | [Pitwall](https://pitwall-two.vercel.app/) | Live timing, telemetria e dados históricos de F1 em português, para fãs sem F1 TV Pro | Next.js · TypeScript · FastAPI · PostgreSQL · Redis · MQTT | Em desenvolvimento |
 | [analista-valuation](https://github.com/Ueslii/analistavaluetion)| Calcula o valor justo de ações da B3 com métodos de valuation | TypeScript | Em desenvolvimento |
-| [Finance-SpringAI](https://github.com/Ueslii/Finance-SpringAI) | Assistente financeiro com IA | Java · Spring Boot · Spring AI | Em desenvolvimento |
+| [Finance-SpringAI](https://github.com/Ueslii/Finance-SpringAI) | Assistente financeiro com IA | Java · Spring Boot · Spring AI | v1 concluída · em evolução |
  
 ## Minhas Skills
  
